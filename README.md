@@ -1,2 +1,2 @@
 # my-mini-project
-Still in progress
+Still in progress of updating
