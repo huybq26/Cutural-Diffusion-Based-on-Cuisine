@@ -1,7 +1,7 @@
 # Cultural Diffusion Based on Cuisine
 Coursework project: Introduction to Data Science and Artificial Intelligence.
 
-A Python program to find the most suitable ingredients for users to cook any culture cuisine using Python.
+A Python program to find the most suitable ingredients for users to cook any culture cuisine.
 <ul>
   <li>
 Use TF-IDF and Count vectorizer to clean the string datasets.
